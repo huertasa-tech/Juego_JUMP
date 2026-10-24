@@ -1,0 +1,6 @@
+{
+  "name": "Jumping Ball Runner",
+  "description": "A vibrant, cartoon endless runner game featuring a bouncy jumping ball, dynamic parallax scrolling worlds, funny audio effects, unlockable skins, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
